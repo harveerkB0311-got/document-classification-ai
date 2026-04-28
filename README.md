@@ -60,5 +60,4 @@ Open:
 http://127.0.0.1:8000/docs
 ```
 
-## Resume Bullet
-Developed an AI-powered document classification system using Python, NLP, TF-IDF, Scikit-learn, and FastAPI to classify business documents and support automated document processing workflows.
+
