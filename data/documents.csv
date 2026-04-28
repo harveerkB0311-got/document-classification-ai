@@ -1,0 +1,11 @@
+text,label
+"Invoice number INV-1001 total amount due payment date tax subtotal",invoice
+"Employment agreement between company and employee terms conditions signatures",contract
+"Bank statement account balance transaction debit credit deposit withdrawal",bank_statement
+"Passport identification document name date of birth nationality photo",id_document
+"Invoice for software services payment due amount invoice date",invoice
+"Service contract agreement legal terms party obligations termination clause",contract
+"Monthly bank statement showing transactions account number and balance",bank_statement
+"Government ID card with personal details identification number",id_document
+"Payment invoice purchase order billing address total tax",invoice
+"Business contract signed by two parties with renewal terms",contract
